@@ -9,3 +9,5 @@ This project consists of two parts:
 ## Diagram
 
 This was built using **[Lucid Chart](https://www.lucidchart.com)**
+
+![image](https://user-images.githubusercontent.com/18303044/182663625-1afde65d-f307-4d6d-ac24-5f0ca491a0b7.png)
