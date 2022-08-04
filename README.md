@@ -17,7 +17,7 @@ This was built using **[Lucid Chart](https://www.lucidchart.com)**
 
 Run the below on the terminal to create the network infrastructure
 ```bash
-./create.sh demoinfra infra.yml infra-parameters.json
+./create.sh demoinfra infra.yml infra-parameters.json 
 ```
 
 Run the below on the terminal to create the server infrastructure
